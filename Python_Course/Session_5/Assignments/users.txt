@@ -1,0 +1,4 @@
+alice:12345
+bob:password
+carol:qwerty
+alice:newpass

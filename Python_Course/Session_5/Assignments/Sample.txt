@@ -1,0 +1,3 @@
+Hello from text file
+my name is adel
+my age is 20
